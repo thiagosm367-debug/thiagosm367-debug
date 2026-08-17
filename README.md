@@ -1,16 +1,52 @@
-## Hi there 👋
+👋 Olá! Eu sou Thiago Moreira
+👨‍💻 Sobre mim
 
-<!--
-**thiagosm367-debug/thiagosm367-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 2º semestre, e estou construindo minha carreira na área de Tecnologia.
 
-Here are some ideas to get you started:
+Tenho experiência profissional com e-commerce, atuando com cadastro de produtos, pedidos, emissão e conferência de notas fiscais, sistemas ERP e marketplaces como Mercado Livre, Shopee, Amazon e Magalu.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou ampliando meus conhecimentos em desenvolvimento de sistemas e buscando minha primeira oportunidade na área de Tecnologia da Informação.
+
+🚀 Tecnologias e conhecimentos em desenvolvimento
+🐍 Python
+🌐 HTML e CSS
+⚡ JavaScript
+🗄️ Banco de Dados
+🔧 Git e GitHub
+🎨 UX/UI
+📋 Análise de Requisitos
+📊 Modelagem de Processos
+📚 Projeto em destaque
+🛒 Desenvolvimento de Loja Virtual — Nuvemshop
+
+Projeto de criação e configuração de uma loja virtual utilizando a plataforma Nuvemshop.
+
+Fui responsável pela estruturação da loja desde o início, incluindo:
+
+Configuração da plataforma
+Organização da estrutura da loja
+Cadastro e organização de produtos
+Criação de categorias
+Configuração de informações dos produtos
+Personalização visual utilizando os recursos da plataforma
+Organização da experiência de navegação do cliente
+Preparação da loja para vendas online
+
+O projeto me proporcionou experiência prática com e-commerce, organização de informações, experiência do usuário e utilização de plataformas digitais para negócios.
+
+🎯 Áreas de interesse
+
+Tenho interesse em continuar desenvolvendo meus conhecimentos em:
+
+Desenvolvimento Web
+Desenvolvimento de Sistemas
+Python
+Banco de Dados
+Suporte e Tecnologia da Informação
+E-commerce e soluções digitais
+📈 Atualmente
+
+🎓 Cursando Análise e Desenvolvimento de Sistemas
+📚 Aprendendo e desenvolvendo novos projetos
+💻 Buscando oportunidade de estágio ou posição inicial em Tecnologia
+🚀 Construindo meu portfólio no GitHub
